@@ -4,3 +4,6 @@ GitHubi kasutavad peamiselt IT-inimesed, tarkvaraarendajad, disainerid jne.
 
 Mina saan GitHubi kasutada näiteks tulevate keeruliste grupitööde tegemiseks.
 Lisaks hakkan ilmselt töö raames GitHubiga tihedalt kokku puutuma.
+
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007.
+GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.

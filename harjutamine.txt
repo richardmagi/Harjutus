@@ -1,0 +1,3 @@
+GitHub on faili- või koodijagamisteenus mis võimaldab mitmete inimestega koostööd teha.
+GitHub põhineb Giti hajutatud versioonihaldusel ja lähtekoodihaldusel, kuid lisab neile veel võimalusi, näiteks võimalust kontrollida, kes pääseb koodile juurde, koodi veakontrolli, tarkvara funktsioonide taotlust ning igale projektile oma Wikit.
+GitHubi kasutavad peamiselt IT-inimesed, tarkvaraarendajad, disainerid jne.
